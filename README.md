@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Ubaid Ur Rahman 👋</h1>
+<h1 align="center">Hi, I'm Ubaid Ur Rehman 👋</h1>
 <h3 align="center">Analytical Chemist → Data Analyst & AI-Assisted Researcher | Bahawalnagar, Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ubaid-ur-rahman-918624309">
+  <a href="https://www.linkedin.com/in/ubaid-ur-rehman-chemist">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/923228239798">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_LINK">
+  <a href="https://www.facebook.com/ur.chemist.assistant">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
@@ -119,12 +119,12 @@ Based in **Bahawalnagar, Punjab, Pakistan** — open to relocating anywhere the 
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/ubaid-ur-rahman-918624309](https://www.linkedin.com/in/ubaid-ur-rahman-918624309) |
+| 💼 LinkedIn | [linkedin.com/in/ubaid-ur-rehman-chemist](https://www.linkedin.com/in/ubaid-ur-rehman-chemist) |
 | 💬 WhatsApp | [Chat on WhatsApp](https://wa.me/923228239798) |
 | 📘 Facebook | [Take look on Facebook](https://www.facebook.com/ur.chemist.assistant/) |
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ubaid-ur-rahman-918624309">
+  <a href="https://www.linkedin.com/in/ubaid-ur-rahman-chemist">
     <img src="https://img.shields.io/badge/LinkedIn-Ubaid%20Ur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/923228239798">
