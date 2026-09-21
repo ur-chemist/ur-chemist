@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ubaid Ur Rehman 👋</h1>
-<h3 align="center">Analytical Chemist → Data Analyst & AI-Assisted Researcher | Bahawalnagar, Pakistan 🇵🇰</h3>
+<h3 align="center">Data Analyst | SQL · Excel · Power BI · Chemometrics | Analytical Chemist | Pakistan 🇵🇰</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ubaid-ur-rehman-chemist">
@@ -10,6 +10,11 @@
   </a>
   <a href="https://www.facebook.com/ur.chemist.assistant">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0007-8152-5843">
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--8152--5843-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+ <a href="https://www.kaggle.com/ubaidurrehmanthaheem">
+    <img src="https://img.shields.io/badge/Kaggle-ubaidurrehmanthaheem-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
 </p>
@@ -22,88 +27,111 @@
 
 ## 🧪 About Me
 
-I'm a **final-year BS Chemistry student** (CGPA 3.84/4.0) at **The Islamia University of Bahawalpur**, transitioning into data analytics, AI-assisted research, and quality assurance.
+I'm a **final-year BS Chemistry student** (CGPA 3.84/4.0) at **The Islamia University of Bahawalpur** and a **Google Certified Data Analyst**.
 
-My laboratory background spans **HPLC, IR & UV-Vis spectroscopy, electrochemistry, and statistical quality control** — disciplines where precision isn't optional. I bring that same precision-first mindset to every dataset and research pipeline I build.
+Chemistry trained me to work with precise, real-world data , calibration curves, spectral measurements, and quality control numbers where being wrong actually matters. I bring that same precision into **SQL, Excel, Power BI, and Chemometrics** to find patterns in data and turn them into clear, usable answers.
 
-Outside the lab I work with **Python, SQL, and Power BI** to turn raw numbers into decisions, and I use AI tools to accelerate scientific publishing — from literature review to preprint submission.
 
 > *"A spec sheet and a dataset aren't that different when you're looking for what's off."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
+### Data Analysis
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-beginner-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-**Chemistry & Research Tools:** HPLC · IR Spectroscopy · UV-Vis · Electrochemistry · Statistical QC · Chemometrics · ChemRxiv · AI-assisted writing
+### Chemometrics — as a Data Analyst Skill
+> Chemometrics is the application of statistical and mathematical methods to chemical data.
+> As a data analyst skill it means: multivariate analysis, regression on complex datasets,
+> pattern recognition, and signal processing — applied to real measurement data.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/PLS%20Regression-Multivariate-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OLS%20Regression-Statistical-E74C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Calibration%20Curves-LOD%2FLOQ-2ECC71?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UV--Vis%20Spectral%20Data-846%20samples-3498DB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Feature%20Selection-VIP%20Scores-F39C12?style=flat-square"/>
+</p>
+
+### Domain Knowledge
+`Analytical Chemistry` `UV-Vis Spectroscopy` `HPLC` `Statistical QC` `Electrochemistry` `IR Spectroscopy`
+
+---
 
 ## 🚀 Projects
 
 ---
 
-### 🍷 [Wine Quality Chemometrics — Predictive Quality Control System](https://github.com/ur-chemist/wine-quality-chemometrics)
+### 🍷 [Wine Quality — Data Analysis & Classification](https://github.com/ur-chemist/wine-quality-chemometrics)
 
-> An end-to-end **Python + SQL + Machine Learning** pipeline that predicts wine batch quality *during fermentation* — before defects reach packaging.
-
-```
-Problem:  Defect caught after packaging   →  $13,000 per incident
-Solution: Automated prediction during fermentation  →  $1,500 per incident
-Savings:  $11,500 per deflected defect ✅
-```
+> Analysed 1,599 red wine samples to identify which chemical properties drive quality scores, using regression, classification, and a SQL pipeline to store and query results.
 
 | What | Detail |
 |---|---|
 | 📊 Method | OLS Regression + Random Forest Classifier |
-| 🔬 Key drivers | Volatile Acidity (p=3.62×10⁻⁴⁰) · Alcohol Content (p=1.80×10⁻⁶⁷) |
+| 🔬 Key Drivers | Volatile Acidity · Alcohol Content |
 | 🗄️ Storage | SQLite predictions database |
-| 💰 Business impact | $11,500 saved per deflected defect |
+| 📉 Model R² | 0.32 — volatile acidity & alcohol are strongest predictors |
 
 **Stack:** `Python` `pandas` `scikit-learn` `statsmodels` `SQLite` `Jupyter` `Excel`
 
-### 🤖 [ChemAI-Publish — Zero-Budget Autopilot Research Publisher](https://github.com/ur-chemist/ChemAI-Publish)
+---
 
-> A structured AI-assisted pipeline for writing and publishing analytical chemistry reviews on **ChemRxiv** — from literature to preprint, at zero cost.
+### 🌿 [UV-Vis Pesticide Detection — Chemometric Analysis](https://github.com/ur-chemist/uv-vis-pesticide-chemometrics)
 
-```
-Problem:  Publishing research takes months and expensive tools
-Solution: Structured AI workflow → literature → drafts → figures → submission
-Result:   Faster, reproducible, zero-budget scientific publishing ✅
-```
+> Analysed 846 UV-Vis spectra (200–737.5 nm) to detect four pesticide analytes in complex environmental water samples using univariate and multivariate (PLS) methods.
 
 | What | Detail |
 |---|---|
-| 📁 Pipeline stages | Literature → Prompts → Drafts → Figures → Final |
-| 🎯 Target | ChemRxiv preprint server |
-| 🛠️ Approach | Zero-budget, AI-assisted, fully documented workflow |
-| 🔬 Domain | Analytical Chemistry reviews & research |
+| 📊 Method | Beer-Lambert (univariate) · PLS · PLS+SNV |
+| 🔬 Analytes | Bromide · Fluopyram · Diflufenican · Mesosulfuron |
+| 📈 Best Result | Fluopyram R²cv improved from −0.004 → 0.597 with PLS+SNV |
+| 🧪 Finding | Diflufenican undetectable — DOM matrix interference confirmed |
+| 🗃️ Data | 846 spectra · Zenodo DOI: 10.5281/zenodo.21911163 |
 
-**Stack:** `AI Writing Tools` `ChemRxiv` `Structured Prompting` `Literature Review`
+**Stack:** `Python` `pandas` `Excel` `PLS Regression` `UV-Vis Data` `Zenodo`
 
+---
+
+### 🛒 E-Commerce Data Analysis *(Coming Soon)*
+
+> Sales trend analysis, customer segmentation, and KPI dashboard using real e-commerce data.
+
+**Stack:** `SQL` `Excel` `Power BI`
+
+---
 
 ## 🏆 Achievements & Awards
 
 | Award | Issuer | Year |
 |---|---|---|
 | 🥇 CM Honhaar Undergraduate Scholarship | HEC Pakistan — merit-based | 2025 |
-| 💻 Prime Minister Youth Laptop Scheme | Government of Pakistan — top 3 students | 2023 |
+| 💻 Prime Minister Youth Laptop Scheme | Government of Pakistan | 2023 |
 | 📜 Google Data Analytics Certificate | Google / Coursera | 2025 |
 | 🖥️ Google IT Support Certificate | Google / Coursera | 2025 |
+
+---
 
 ## 📚 Education
 
 **BS Chemistry** — The Islamia University of Bahawalpur
 📊 CGPA: **3.84 / 4.0** | Dec 2022 – Dec 2026
-*Coursework: Analytical Chemistry · Physical Chemistry · Statistical Quality Control · Electrochemistry · HPLC · UV-Vis & IR Spectroscopy*
+*Coursework: Analytical Chemistry · Statistical Quality Control · Electrochemistry · HPLC · UV-Vis & IR Spectroscopy*
+
+---
+
+**Google Data Analytics Professional Certificate** — Google / Coursera
+📅 Completed: Dec 1, 2025 · 9 Courses
+🔗 [Verify Certificate](https://coursera.org/verify/professional-cert/98TNBN2M2XU6)
+
+*Courses: Foundations of Data · Ask Questions to Make Data-Driven Decisions · Prepare Data for Exploration · Process Data from Dirty to Clean · Analyze Data to Answer Questions · Share Data Through the Art of Visualization · Data Analysis with R · Capstone · Accelerate Your Job Search with AI*
 
 ## 📈 GitHub Stats
 
@@ -112,26 +140,29 @@ Result:   Faster, reproducible, zero-budget scientific publishing ✅
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur-chemist&layout=compact&hide_border=true&theme=default" width="40%"/>
 </p>
 
+---
+
 ## 📬 Contact Me
 
-I'm actively seeking **Data Analyst, QA Officer, and R&D roles** — on-site, hybrid, or remote.
-Based in **Bahawalnagar, Punjab, Pakistan** — open to relocating anywhere the work takes me.
+I'm actively seeking **Data Analyst roles** — remote or hybrid.
+Based in **Bahawalnagar, Punjab, Pakistan** — open to relocating.
 
 | Platform | Link |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/ubaid-ur-rehman-chemist](https://www.linkedin.com/in/ubaid-ur-rehman-chemist) |
 | 💬 WhatsApp | [Chat on WhatsApp](https://wa.me/923228239798) |
-| 📘 Facebook | [Take look on Facebook](https://www.facebook.com/ur.chemist.assistant/) |
+| 🔬 ORCID | [0009-0007-8152-5843](https://orcid.org/0009-0007-8152-5843) |
+| 🎯 Kaggle | [ubaidurrehmanthaheem](https://www.kaggle.com/ubaidurrehmanthaheem) |
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ubaid-ur-rahman-chemist">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ubaid-ur-rehman-chemist">
     <img src="https://img.shields.io/badge/LinkedIn-Ubaid%20Ur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/923228239798">
     <img src="https://img.shields.io/badge/WhatsApp-%2B92%20322%20823%209798-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/ur.chemist.assistant">
-    <img src="https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://orcid.org/0009-0007-8152-5843">
+    <img src="https://img.shields.io/badge/ORCID-Research%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </p>
 
