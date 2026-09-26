@@ -1,169 +1,175 @@
-<h1 align="center">Hi, I'm Ubaid Ur Rehman 👋</h1>
-<h3 align="center">Data Analyst | SQL · Excel · Power BI · Chemometrics | Analytical Chemist | Pakistan 🇵🇰</h3>
+<!-- HEADER BANNER -->
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ubaid-ur-rehman-chemist">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/923228239798">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/ur.chemist.assistant">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://orcid.org/0009-0007-8152-5843">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--8152--5843-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
- <a href="https://www.kaggle.com/ubaidurrehmanthaheem">
-    <img src="https://img.shields.io/badge/Kaggle-ubaidurrehmanthaheem-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460,1A3A6B,00B4D8&height=200&section=header&text=Ubaid%20ur%20Rehman&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Chemistry%20%C3%97%20Data%20Analysis%20%C3%97%20Open%20Science&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ur-chemist&color=blue&style=flat-square&label=Profile+Views"/>
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Final-Year+BS+Chemistry+%E2%80%94+CGPA+3.84%2F4.0;Data+Analysis+%7C+Chemometrics+%7C+BI+Dashboards;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Open+Science+%7C+Published+on+Zenodo;IChC+2026+Qualifier+%7C+CM+Honhaar+Scholar)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧪 About Me
+<div align="center">
 
-I'm a **final-year BS Chemistry student** (CGPA 3.84/4.0) at **The Islamia University of Bahawalpur** and a **Google Certified Data Analyst**.
+[![Gmail](https://img.shields.io/badge/Email-ubaidurrehmanchemist@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubaidurrehmanchemist@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ubaid--ur--rehman--chemist-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ubaid-ur-rehman-chemist)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--8152--5843-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8152-5843)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21911163-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21911163)
 
-Chemistry trained me to work with precise, real-world data , calibration curves, spectral measurements, and quality control numbers where being wrong actually matters. I bring that same precision into **SQL, Excel, Power BI, and Chemometrics** to find patterns in data and turn them into clear, usable answers.
-
-
-> *"A spec sheet and a dataset aren't that different when you're looking for what's off."*
-
----
-
-## 🛠️ Skills
-
-### Data Analysis
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-beginner-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
-
-### Chemometrics — as a Data Analyst Skill
-> Chemometrics is the application of statistical and mathematical methods to chemical data.
-> As a data analyst skill it means: multivariate analysis, regression on complex datasets,
-> pattern recognition, and signal processing — applied to real measurement data.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PLS%20Regression-Multivariate-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OLS%20Regression-Statistical-E74C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Calibration%20Curves-LOD%2FLOQ-2ECC71?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UV--Vis%20Spectral%20Data-846%20samples-3498DB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Feature%20Selection-VIP%20Scores-F39C12?style=flat-square"/>
-</p>
-
-### Domain Knowledge
-`Analytical Chemistry` `UV-Vis Spectroscopy` `HPLC` `Statistical QC` `Electrochemistry` `IR Spectroscopy`
+</div>
 
 ---
 
-## 🚀 Projects
+## 👤 About Me
+
+```python
+ubaid = {
+    "name"       : "Ubaid ur Rehman",
+    "role"       : "Final-year BS Chemistry student → aspiring Data / Research Analyst",
+    "university" : "The Islamia University of Bahawalpur, Pakistan",
+    "cgpa"       : "3.84 / 4.00 — First Division with Distinction",
+    "awards"     : ["CM Honhaar Scholar — HEC Pakistan 2025",
+                    "PM Youth Laptop Scheme 2023 (top-3 merit)",
+                    "IChC 2026 Qualifier"],
+    "interests"  : ["Chemometrics", "Business Intelligence",
+                    "Environmental Data", "Open Science"],
+    "open_to"    : ["Data Analyst roles", "Research positions",
+                    "MS abroad (DAAD / Erasmus Mundus / HEC Overseas)"],
+    "location"   : "Bahawalnagar, Punjab, Pakistan — open to relocation"
+}
+```
 
 ---
 
-### 🍷 [Wine Quality — Data Analysis & Classification](https://github.com/ur-chemist/wine-quality-chemometrics)
+## 🛠️ Tech Stack
 
-> Analysed 1,599 red wine samples to identify which chemical properties drive quality scores, using regression, classification, and a SQL pipeline to store and query results.
+<div align="center">
 
-| What | Detail |
+**Languages & Data Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Libraries & Frameworks**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Analytical Methods**
+
+![PLS](https://img.shields.io/badge/PLS_Regression-0F3460?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA_%2F_Multivariate-1A3A6B?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-2ECC71?style=for-the-badge)
+![Statistical QC](https://img.shields.io/badge/Statistical_QC-E94560?style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+### 📊 E-Commerce Profitability & Operational Efficiency Audit
+
+> *Business Intelligence · Excel Dashboarding · Data Storytelling*
+
+A structured BI audit of a 60-month, 138K-order e-commerce dataset answering **26 business questions** for CO & CFO level decision-making. Built a 10-sheet dark-theme Excel dashboard with 13 charts covering products, revenue, customers, acquisition channels, returns, and seasonal patterns.
+
+**Key Findings Uncovered:**
+- 🔴 Heavy discounts (>20%) destroy **21.5 percentage points** of profit margin — $15.8M lost per period
+- 🔴 Late delivery triggers a **22.83% return rate** vs 0% for on-time delivery
+- 💡 North region has the **highest CLV ($9,300+) and margin (48%)** but is severely underinvested
+- 💡 All top-10 profit customers are **'Loyal' type** — loyalty programme = highest LTV multiplier
+
+| Deliverable | Description |
 |---|---|
-| 📊 Method | OLS Regression + Random Forest Classifier |
-| 🔬 Key Drivers | Volatile Acidity · Alcohol Content |
-| 🗄️ Storage | SQLite predictions database |
-| 📉 Model R² | 0.32 — volatile acidity & alcohol are strongest predictors |
+| 📊 `olivedd_dashboard.xlsx` | 10-sheet dark-theme BI dashboard · 13 charts · AutoFilter |
+| 📄 `olivedd_bi_report.docx` | 26 Q&A answers · executive findings · strategic recommendations |
 
-**Stack:** `Python` `pandas` `scikit-learn` `statsmodels` `SQLite` `Jupyter` `Excel`
-
----
-
-### 🌿 [UV-Vis Pesticide Detection — Chemometric Analysis](https://github.com/ur-chemist/uv-vis-pesticide-chemometrics)
-
-> Analysed 846 UV-Vis spectra (200–737.5 nm) to detect four pesticide analytes in complex environmental water samples using univariate and multivariate (PLS) methods.
-
-| What | Detail |
-|---|---|
-| 📊 Method | Beer-Lambert (univariate) · PLS · PLS+SNV |
-| 🔬 Analytes | Bromide · Fluopyram · Diflufenican · Mesosulfuron |
-| 📈 Best Result | Fluopyram R²cv improved from −0.004 → 0.597 with PLS+SNV |
-| 🧪 Finding | Diflufenican undetectable — DOM matrix interference confirmed |
-| 🗃️ Data | 846 spectra · Zenodo DOI: 10.5281/zenodo.21911163 |
-
-**Stack:** `Python` `pandas` `Excel` `PLS Regression` `UV-Vis Data` `Zenodo`
+[![Repo](https://img.shields.io/badge/View_Repo-0F3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ur-chemist/E-Commerce-Profitability-Operational-Efficiency-Audit)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle_Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 ---
 
-### 🛒 E-Commerce Data Analysis *(Coming Soon)*
+### 🔬 UV-Vis Pesticide Chemometrics — Environmental Water Monitoring
 
-> Sales trend analysis, customer segmentation, and KPI dashboard using real e-commerce data.
+> *Chemometrics · PLS Regression · Open-Science Publication*
 
-**Stack:** `SQL` `Excel` `Power BI`
+Built a full Python chemometric pipeline on **846 real UV-Vis spectra** (215 wavelengths) from agricultural water runoff, detecting pesticides (Fluopyram, Diflufenican, Bromide, Mesosulfuron) in a complex matrix. Designed and compared three calibration models under 5-fold cross-validation. Discovered that 82% of spectral variance is hydrological (Bromide silent-tracer), not analyte-driven — a genuine negative-result study with scientific value.
+
+**Technical Highlights:**
+- Beer-Lambert → PLS → PLS+SNV pipeline with RMSECV-based component selection
+- Best result: Fluopyram R²cv = **0.631** (PLS+SNV); Diflufenican undetectable (R²cv ≈ 0.002)
+- PCA variance decomposition proves **DOM matrix interference** as primary spectral driver
+- Full dataset + code published with citable DOI
+
+[![Repo](https://img.shields.io/badge/View_Repo-0F3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ur-chemist/uv-vis-pesticide-chemometrics)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21911163-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21911163)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
 
-## 🏆 Achievements & Awards
+### 🍷 QA/QC Predictive Pipeline — Wine Quality Analysis
 
-| Award | Issuer | Year |
+> *Machine Learning · SQL · Statistical Quality Control*
+
+End-to-end QC data pipeline on the UCI Wine Quality dataset (1,599 samples, 11 physicochemical features). Built OLS regression with statistical significance testing (p < 0.001), Random Forest classifier for batch prediction, and an SQLite database for automated threshold-based batch flagging. Documents an honest negative result (R² = 0.32) with full constraints analysis.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0F3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ur-chemist/wine-quality-chemometrics)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+## 📜 Certifications & Recognition
+
+| Credential | Issuer | Year |
 |---|---|---|
-| 🥇 CM Honhaar Undergraduate Scholarship | HEC Pakistan — merit-based | 2025 |
-| 💻 Prime Minister Youth Laptop Scheme | Government of Pakistan | 2023 |
-| 📜 Google Data Analytics Certificate | Google / Coursera | 2025 |
-| 🖥️ Google IT Support Certificate | Google / Coursera | 2025 |
+| 🏅 Google Data Analytics Professional Certificate | Google / Coursera | Nov 2025 |
+| 🏆 CM Honhaar Scholarship (full tuition, CGPA >3.8) | HEC Pakistan | 2025 |
+| 💻 PM Youth Laptop Scheme (top-3 merit) | Govt. of Pakistan | 2023 |
+| 🧪 IChC 2026 Qualifier | International Chemistry Challenge | 2026 |
 
 ---
-
-## 📚 Education
-
-**BS Chemistry** — The Islamia University of Bahawalpur
-📊 CGPA: **3.84 / 4.0** | Dec 2022 – Dec 2026
-*Coursework: Analytical Chemistry · Statistical Quality Control · Electrochemistry · HPLC · UV-Vis & IR Spectroscopy*
-
----
-
-**Google Data Analytics Professional Certificate** — Google / Coursera
-📅 Completed: Dec 1, 2025 · 9 Courses
-🔗 [Verify Certificate](https://coursera.org/verify/professional-cert/98TNBN2M2XU6)
-
-*Courses: Foundations of Data · Ask Questions to Make Data-Driven Decisions · Prepare Data for Exploration · Process Data from Dirty to Clean · Analyze Data to Answer Questions · Share Data Through the Art of Visualization · Data Analysis with R · Capstone · Accelerate Your Job Search with AI*
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ur-chemist&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur-chemist&layout=compact&hide_border=true&theme=default" width="40%"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ur-chemist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=00B4D8&icon_color=F4A261&text_color=B0B0C0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur-chemist&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1A2E&title_color=00B4D8&text_color=B0B0C0" height="165"/>
+
+</div>
 
 ---
 
-## 📬 Contact Me
+## 🌐 Open Science
 
-I'm actively seeking **Data Analyst roles** — remote or hybrid.
-Based in **Bahawalnagar, Punjab, Pakistan** — open to relocating.
+> I believe in publishing data and code openly — negative results have scientific value.
 
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/ubaid-ur-rehman-chemist](https://www.linkedin.com/in/ubaid-ur-rehman-chemist) |
-| 💬 WhatsApp | [Chat on WhatsApp](https://wa.me/923228239798) |
-| 🔬 ORCID | [0009-0007-8152-5843](https://orcid.org/0009-0007-8152-5843) |
-| 🎯 Kaggle | [ubaidurrehmanthaheem](https://www.kaggle.com/ubaidurrehmanthaheem) |
+📦 **Published Dataset & Code:** [doi.org/10.5281/zenodo.21911163](https://doi.org/10.5281/zenodo.21911163)  
+📄 **Manuscript:** Submitted for peer review (ChemRxiv, ~Aug 2026)  
+🔬 **ORCID:** [0009-0007-8152-5843](https://orcid.org/0009-0007-8152-5843)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ubaid-ur-rehman-chemist">
-    <img src="https://img.shields.io/badge/LinkedIn-Ubaid%20Ur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/923228239798">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B92%20322%20823%209798-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://orcid.org/0009-0007-8152-5843">
-    <img src="https://img.shields.io/badge/ORCID-Research%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-  </a>
-</p>
+---
 
-<p align="center">Made with ❤️ from Bahawalnagar, Pakistan 🇵🇰</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460,1A3A6B,00B4D8&height=100&section=footer" width="100%"/>
+
+*"Combining chemistry's rigour with data's scale — building evidence-based conclusions from complex, real-world datasets."*
+
+</div>
